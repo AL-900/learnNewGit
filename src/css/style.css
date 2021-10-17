@@ -1,0 +1,35 @@
+
+body{
+     background-color: rgb(252, 212, 212);
+}
+.dtailsHead{
+
+background-color: rgb(161, 161, 161);
+border-radius: 8px;
+
+}
+
+.cv_img{
+     height: 250px;
+     width: 100%;
+     object-fit: contain;
+     margin-top: 20px;
+     
+}
+
+.blacknav{
+    
+     background-color: rgb(18, 2, 61);
+
+}
+.mynav {
+      height: 100px;
+    color: rgb(252, 212, 212);
+        padding: 20px;
+    z-index: 1;
+
+    /* animation */
+
+     transition: all ease-in 0.4s;
+
+}
